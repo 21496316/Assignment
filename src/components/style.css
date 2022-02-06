@@ -5,5 +5,10 @@
   font-family: 'Roboto', 'sans-sarif';
 }
 .container {
-  background: url();
+  background: url('./Images/2.jpg');
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  position: relative;
 }
