@@ -1,0 +1,25 @@
+nav {
+  background: rgba(0, 0, 0, 0.9);
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+  position: relative;
+  z-index: 99;
+}
+div {
+  font-weight: 600;
+  font-size: 17px;
+  color: tomato;
+}
+
+.logo font {
+  color: #fff;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
